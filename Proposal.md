@@ -14,7 +14,7 @@ One of the most significant impact areas is how the work is geeting done. So far
 
 Our mission at AISure is to disrupt how startups operate by harnessing the power of decentralized networks and collective integlligence in the web3 ecosystem.We create a web2 ecosysem where the limists of a centralized company as a cooridination mechanism are replaced with decentralized contribute-to-earn and work-to-earn organizational models.
 
-MetaSure ecosystem, entreprenuers willl be able to immediately publish a development contract and let the community of experts collectively join forces and build the product. This concepts is similar to a marketplace but with significantly lower coordination costs, completely automated processes and the power of collective intelligence. Moreover, the fundraising process will be completely automated and founders can raise from as many investors as they wish without worrying about time and costs.
+AISure ecosystem, entreprenuers willl be able to immediately publish a development contract and let the community of experts collectively join forces and build the product. This concepts is similar to a marketplace but with significantly lower coordination costs, completely automated processes and the power of collective intelligence. Moreover, the fundraising process will be completely automated and founders can raise from as many investors as they wish without worrying about time and costs.
 
 There is an incredible potential for founders to harness the power of decentralized networks and people's collective intelligence, and we are building the infrastrcuture for that offer.
 
